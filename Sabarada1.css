@@ -1,4 +1,4 @@
-
+<style>
 body {width: 100%; background: none; }
 
 .BgAtas1 {background-size: cover; background: #28A745;  overflow: auto; height: 90px; overflow: value; margin-top: 0px;  border-radius: 0px 0px 10% 10%;}
@@ -127,3 +127,4 @@ form {display: flex; align-items: center; float: left; border: 2px #eaeaea solid
 }
 
 
+</Style>
